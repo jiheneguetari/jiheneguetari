@@ -39,10 +39,10 @@ I’m Jihene, an IT Student. My speciality is Mulimedia Web Development.
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=F935AE)
 ![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=TypeScript&logoColor=white&color=F935AE)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&logoColor=white&color=F935AE)
-![](https://img.shields.io/badge/Code-Figma-informational?style=flat&logo=Spring&logoColor=white&color=F935AE)
-![](https://img.shields.io/badge/Code-NodeJs-informational?style=flat&logo=c-sharp&logoColor=white&color=F935AE)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=.net&logoColor=white&color=F935AE)
-![](https://img.shields.io/badge/Code-ExpressJs-informational?style=flat&logo=swift&logoColor=white&color=F935AE)
+![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c-sharp&logoColor=white&color=F935AE)
+![](https://img.shields.io/badge/Code-NodeJs-informational?style=flat&logo=node.js&logoColor=white&color=F935AE)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=F935AE)
+![](https://img.shields.io/badge/Code-Express-informational?style=flat&logo=Express&logoColor=white&color=F935AE)
 ![](https://img.shields.io/badge/Code-MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=F935AE)
 ![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=F935AE)
 <details>
@@ -55,6 +55,8 @@ I’m Jihene, an IT Student. My speciality is Mulimedia Web Development.
 ![](https://img.shields.io/badge/Tools-Illustrator-informational?style=flat&logo=Adobe-Illustrator&logoColor=white&color=3E4E60)
 ![](https://img.shields.io/badge/Tools-AdobeXD-informational?style=flat&logo=Adobe-XD&logoColor=white&color=3E4E60)
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=3E4E60)
+![](https://img.shields.io/badge/Tools-Figma-informational?style=flat&logo=Postman&logoColor=white&color=3E4E60)
+
 </details>
 
 ## 📣 How about an Office quote before you go?
