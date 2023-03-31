@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## &#x1f4c8; GitHub Stats
 <br>
 
 <a href="https://github.com/jiheneguetari">
