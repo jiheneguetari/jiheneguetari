@@ -1,4 +1,4 @@
-[![Jihene's GitHub Banner](./hh.png)](https://jihene.dev)
+[![Jihene's GitHub Banner](./jiji.png)](https://jihene.dev)
 <br>
 
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=63A0FF)](https://twitter.com/jiheneguetari)
