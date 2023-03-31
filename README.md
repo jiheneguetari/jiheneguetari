@@ -6,18 +6,18 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-Profile-informational?style=flat&logo=gmail&logoColor=white&color=63A0FF)](https://mail.google.com/mail/u/0/?pli=1#inbox)
 [![CodePen Badge](https://img.shields.io/badge/CodePen-Profile-informational?style=flat&logo=codepen&logoColor=white&color=63A0FF)](https://codepen.io/jiheneguetari)
   
-### Hi there 👋
+### Hi there 👋:heart:
 I’m Jihene, an IT Student. My speciality is Mulimedia Web Development.
 
 ## &#x1f4c8; GitHub Stats
 <br>
 
 <a href="https://github.com/jiheneguetari">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiheneguetari&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=3E4E60" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiheneguetari&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=F935AE&bg_color=3E4E60" />
 </a>
 
 <a href="https://github.com/jiheneguetari">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=jiheneguetari&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=63A0FF&bg_color=3E4E60" alt="Jihene's GitHub Stats" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=jiheneguetari&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=F935AE&bg_color=3E4E60" alt="Jihene's GitHub Stats" />
 </a>
 
 <br>
@@ -28,26 +28,25 @@ I’m Jihene, an IT Student. My speciality is Mulimedia Web Development.
 <br>
 
 <a href="https://github.com/jiheneguetari/application">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=jiheneguetari&repo=application&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=jiheneguetari&repo=application&title_color=ffffff&text_color=c9cacc&icon_color=F935AE&bg_color=3E4E60" />
 </a>
 
 <br><br>
 
 ## 💼 Skills
 
-![](https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=angular&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=TypeScript&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Figma-informational?style=flat&logo=Spring&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-NodeJs-informational?style=flat&logo=c-sharp&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=.net&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-ExpressJs-informational?style=flat&logo=swift&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=angular&logoColor=white&color=F935AE)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=F935AE)
+![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=TypeScript&logoColor=white&color=F935AE)
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&logoColor=white&color=F935AE)
+![](https://img.shields.io/badge/Code-Figma-informational?style=flat&logo=Spring&logoColor=white&color=F935AE)
+![](https://img.shields.io/badge/Code-NodeJs-informational?style=flat&logo=c-sharp&logoColor=white&color=F935AE)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=.net&logoColor=white&color=F935AE)
+![](https://img.shields.io/badge/Code-ExpressJs-informational?style=flat&logo=swift&logoColor=white&color=F935AE)
+![](https://img.shields.io/badge/Code-MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=F935AE)
+![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=F935AE)
 <details>
 <summary>More Skills</summary>
-<br>
 
 ![](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Style-HTML-informational?style=flat&logo=Tailwind-CSS&logoColor=white&color=4AB197)
@@ -56,15 +55,9 @@ I’m Jihene, an IT Student. My speciality is Mulimedia Web Development.
 ![](https://img.shields.io/badge/Tools-Illustrator-informational?style=flat&logo=Adobe-Illustrator&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-AdobeXD-informational?style=flat&logo=Adobe-XD&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=4AB197)
-  <br>
-  
+</details>
  ## 📣 How about an Office quote before you go?
 
 > “Imagination is more important than knowledge. Knowledge is limited. Imagination circles the world.”
 >
 > <p>- Albert Einstein</p>
-
-
-</details>
-
-<br>
