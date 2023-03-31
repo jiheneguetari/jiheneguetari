@@ -34,7 +34,6 @@ I’m Jihene, an IT Student. My speciality is Mulimedia Web Development.
 <br><br>
 
 ## 💼 Skills
-
 ![](https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=angular&logoColor=white&color=F935AE)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=F935AE)
 ![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=TypeScript&logoColor=white&color=F935AE)
@@ -49,7 +48,7 @@ I’m Jihene, an IT Student. My speciality is Mulimedia Web Development.
 <summary>More Skills</summary>
 
 ![](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&color=3E4E60)
-![](https://img.shields.io/badge/Style-HTML-informational?style=flat&logo=Tailwind-CSS&logoColor=white&color=3E4E60)
+![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=white&color=3E4E60)
 ![](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=Postman&logoColor=white&color=3E4E60)
 ![](https://img.shields.io/badge/Tools-Photoshop-informational?style=flat&logo=Adobe-Photoshop&logoColor=white&color=3E4E60)
 ![](https://img.shields.io/badge/Tools-Illustrator-informational?style=flat&logo=Adobe-Illustrator&logoColor=white&color=3E4E60)
