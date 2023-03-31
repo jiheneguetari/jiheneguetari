@@ -1,12 +1,12 @@
 [![Jihene's GitHub Banner](./jiji.png)](https://jihene.dev)
 <br>
 
-[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=63A0FF)](https://twitter.com/jiheneguetari)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=63A0FF)](https://www.linkedin.com/in/jihene-guetari-a00908264/)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-Profile-informational?style=flat&logo=gmail&logoColor=white&color=63A0FF)](https://mail.google.com/mail/u/0/?pli=1#inbox)
-[![CodePen Badge](https://img.shields.io/badge/CodePen-Profile-informational?style=flat&logo=codepen&logoColor=white&color=63A0FF)](https://codepen.io/jiheneguetari)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=F935AE)](https://twitter.com/jiheneguetari)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=F935AE)](https://www.linkedin.com/in/jihene-guetari-a00908264/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-Profile-informational?style=flat&logo=gmail&logoColor=white&color=F935AE)](https://mail.google.com/mail/u/0/?pli=1#inbox)
+[![CodePen Badge](https://img.shields.io/badge/CodePen-Profile-informational?style=flat&logo=codepen&logoColor=white&color=F935AE)](https://codepen.io/jiheneguetari)
   
-### Hi there 👋:heart:
+### Hi there :sparkles:
 I’m Jihene, an IT Student. My speciality is Mulimedia Web Development.
 
 ## &#x1f4c8; GitHub Stats
@@ -48,15 +48,16 @@ I’m Jihene, an IT Student. My speciality is Mulimedia Web Development.
 <details>
 <summary>More Skills</summary>
 
-![](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Style-HTML-informational?style=flat&logo=Tailwind-CSS&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=Postman&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-Photoshop-informational?style=flat&logo=Adobe-Photoshop&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-Illustrator-informational?style=flat&logo=Adobe-Illustrator&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-AdobeXD-informational?style=flat&logo=Adobe-XD&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&color=3E4E60)
+![](https://img.shields.io/badge/Style-HTML-informational?style=flat&logo=Tailwind-CSS&logoColor=white&color=3E4E60)
+![](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=Postman&logoColor=white&color=3E4E60)
+![](https://img.shields.io/badge/Tools-Photoshop-informational?style=flat&logo=Adobe-Photoshop&logoColor=white&color=3E4E60)
+![](https://img.shields.io/badge/Tools-Illustrator-informational?style=flat&logo=Adobe-Illustrator&logoColor=white&color=3E4E60)
+![](https://img.shields.io/badge/Tools-AdobeXD-informational?style=flat&logo=Adobe-XD&logoColor=white&color=3E4E60)
+![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=3E4E60)
 </details>
- ## 📣 How about an Office quote before you go?
+
+## 📣 How about an Office quote before you go?
 
 > “Imagination is more important than knowledge. Knowledge is limited. Imagination circles the world.”
 >
