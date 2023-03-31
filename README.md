@@ -1,3 +1,5 @@
+[![Jihene's GitHub Banner](./gitt.jpg)](https://jihene.dev)
+
 ### Hi there 👋
 
 <!--
