@@ -7,8 +7,10 @@
 [![CodePen Badge](https://img.shields.io/badge/CodePen-Profile-informational?style=flat&logo=codepen&logoColor=white&color=F935AE)](https://codepen.io/jiheneguetari)
   
 ### Hi there :sparkles:
-I’m Jihene, an IT Student. My speciality is Mulimedia Web Development.
-
+I'm Full Stack Developer (Web & Mobile) specializing
+ in IoT and Artificial Intelligence. With extensive
+ experience in designing and developing
+ innovative applications
 ## &#x1f4c8; GitHub Stats
 <br>
 
